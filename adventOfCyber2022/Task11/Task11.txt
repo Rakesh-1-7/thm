@@ -1,0 +1,7 @@
+-------email analysis tool-------
+
+emlAnalyzer - Gives a clean picture to view email contents
+
+https://emailrep.io/ - Gives email reputation
+https://www.virustotal.com/ - Check info on a hash
+https://labs.inquest.net/ - Gives a description of a sha256sum or a hash
